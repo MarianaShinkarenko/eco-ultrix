@@ -1,3 +1,3 @@
-function aleftme(text){
+function alertme(text){
   alert(text +' Welcome! ');
 }
